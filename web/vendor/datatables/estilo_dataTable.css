@@ -1,0 +1,13 @@
+tr{ cursor: pointer;}
+th, td { 
+    text-align: center;
+    white-space: nowrap;                     
+}
+div.dataTables_wrapper {                
+    margin: 0 auto;
+    font-family: tahoma;
+    font-size: 13px;
+}
+div.dataTables_wrapper td{
+    padding: 3px 0px 3px 0px;
+}
